@@ -1,0 +1,26 @@
+
+/* type selectors, class selector, Id selector */
+
+/* h1 {
+    background-color: green;
+    color: bisque;
+}
+
+h2 {
+    background-color: lightcoral;
+}
+
+p {
+    background-color: black;
+    color: azure;
+} */
+
+/* styling a group of tag */
+/* * {
+    background-color: green;
+    color: bisque;
+} */
+
+h1 span {
+    border-bottom: 3px solid green;
+}
